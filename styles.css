@@ -1,0 +1,12 @@
+html {
+  background-image: url('./img/lain.jpg');
+  background-repeat: repeat;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
